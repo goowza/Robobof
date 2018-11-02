@@ -10,7 +10,7 @@
 
 **-----------------------------------------------------**
 
-**Composants Harware**
+**Composants Hardware**
 - [Contrôleur moteurs DC (double pont en H)](https://learn.adafruit.com/adafruit-tb6612-h-bridge-dc-stepper-motor-driver-breakout/)
 
 **-----------------------------------------------------**
